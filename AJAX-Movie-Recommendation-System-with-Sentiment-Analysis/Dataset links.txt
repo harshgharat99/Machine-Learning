@@ -1,0 +1,5 @@
+DataSet Links : 
+IMDB 5000 Movie Dataset :https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+The Movies Dataset:
+Download credits.csv and movies.metadata.csv
+https://www.kaggle.com/carolzhangdc/imdb-5000-movie-datasethttps://www.kaggle.com/rounakbanik/the-movies-dataset?select=credits.csv
