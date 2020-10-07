@@ -9,9 +9,6 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using `beautifulsoup4` and performed sentiment analysis on those reviews.
 
-Check out the live demo: https://mrswsa.herokuapp.com/
-
-Link to youtube demo: https://www.youtube.com/watch?v=dhVePtyECFw
 
 # Note
 
@@ -23,11 +20,6 @@ Link to "The Movie Cinema" application: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-Source Code: https://github.com/kishan0725/The-Movie-Cinema
-
-## Featured in Krish's Live Session on YouTube
-
-[![krish youtube](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/krish-naik.PNG)](https://www.youtube.com/watch?v=A_78fGgQMjM)
 
 ## How to get the API key?
 
@@ -35,7 +27,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ## How to run the project?
 
-1. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file.
+1. Install all the libraries mentioned in the [requirements.txt](https://github.com/harshgharat99/Machine-Learning/tree/master/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/requirements.txt) file.
 2. Clone this repository in your local system.
 3. Replace YOUR_API_KEY in the `static/recommend.js` file.
 4. Open the command prompt from your project directory and run the command `python main.py`.
